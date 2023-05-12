@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisement>
+  <ad>
+    <imageurl>img/freezscrll.jpg</imageurl>
+  </ad>
+  <ad>
+    <imageurl>img/acsrll.jpg</imageurl>
+    </ad>
+     <ad>
+      <imageurl>img/tvscroll.jpg</imageurl>
+      </ad>
+      
+    </Advertisement>
